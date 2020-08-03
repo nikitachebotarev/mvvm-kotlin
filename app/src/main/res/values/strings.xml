@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Chuck Jokes</string>
+
+    <string name="menu_jokes_list">List</string>
+    <string name="menu_my_jokes">My</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="share">Share</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+    <string name="delete">Delete</string>
+
+    <string name="add_new_joke">Add new joke</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="field_is_empty">Field is empty</string>
+
+    <string name="firstname">Character first name</string>
+    <string name="lastname">Character last name</string>
+    <string name="offline">Offline mode</string>
+</resources>
